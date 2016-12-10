@@ -1,0 +1,18 @@
+
+google maps as inline block
+
+add when document has loaded safety statement
+
+image banner cropped -> find smallest image and set height to that
+
+scroll animation on nav bar
+
+build menu page 
+-> upload pdf files
+-> pop up or another page?
+
+connect mailing list to submit button
+
+style mailing list submit button 
+
+decide whether to use burger button for menu
